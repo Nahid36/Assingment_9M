@@ -1,0 +1,73 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.top{
+	/*border: 1px solid red;*/
+	background-image:url('header.jpg');
+	height: 100vh;
+	color: white;
+	text-align: center;
+
+}
+.header_text{
+	position: absolute;
+	margin-top: 40%;
+}
+.second{
+	/*border: 1px solid green;*/
+	background-color: #F76C4E;
+	color:white;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.btn-coral{
+	color: #fff;
+	background-color: coral;
+	border-radius: 25px;
+}
+.btn-white {
+	color: #000;
+	background-color: white;
+}
+.third{
+	/*border: 1px solid red;*/
+	text-align: center;
+	margin-top: 4%;
+
+}
+
+.fourth{
+	/*border: 1px solid red;*/
+	padding: 45px 0;
+}
+.fourth_text{
+	text-align: center;
+	padding: 30px 0;
+
+}
+.color_coral{
+	color: coral;
+}
+.sixth{
+	/*border: 1px solid red;*/
+	background-color: #393838;
+	padding: 20px 0;
+}
+.sixth_text{
+	/*border: 1px solid red;*/
+	text-align: center;
+	margin-top: 7%;
+	color: white;
+
+}
+.navbar-default{
+	background:transparent;
+	border-color: white;
+}
+
+.seventh {
+	text-align: center;
+}
+
